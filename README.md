@@ -1,8 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), which will display list of Github Users from the Github API
 
-## Demo
-https://dhirajsonavane.github.io/react-github-users
-
 ## Available Scripts
 
 In the project directory, you can run:

@@ -9,7 +9,7 @@ function Copyright() {
   return (
     <Typography variant="body2" style={{color: '#fff'}}>
       {'Copyright © '}
-      <a style={{color: '#fff'}} target='_blank' href="https://github.com/dhirajsonavane/react-github-users">
+      <a style={{color: '#fff'}} target='_blank' href="https://github.com/dhirajsonavane/Test-App">
       React Material UI - Traffic Monitoring
       </a>{' '}
       {new Date().getFullYear()}
